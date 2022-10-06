@@ -1,0 +1,33 @@
+body{
+    background-color: #89a7fb;
+}
+
+.select{
+    border: 1px solid #6c86cc;
+    border-radius: 15px;
+    width: 500px;
+    height: 100px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.selected{
+    border: 2px solid yellow;
+    border-radius: 15px;
+}
+
+.hidden{
+    display: none;
+}
+
+.center{
+    display: block;
+    text-align: center;
+}
+.cards{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
