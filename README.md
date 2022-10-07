@@ -1,5 +1,6 @@
 ## Hollandkocsma
 Többjátékos hollandkocsma kártyajáték JavaScript, PHP, CSS és HTML alkalmazásával könyvtárak használata nélkül
+
 2021 december
 
 ## Bemutató 2 kliensen keresztül:
